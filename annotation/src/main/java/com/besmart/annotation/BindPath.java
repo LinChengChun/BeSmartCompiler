@@ -1,4 +1,4 @@
-package com.besmart.compiler;
+package com.besmart.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

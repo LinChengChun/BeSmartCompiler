@@ -5,6 +5,7 @@ group='com.github.LinChengChun'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation project(path: ':annotation')
 
     // AS 3.4 以上
     annotationProcessor 'com.google.auto.service:auto-service:1.0-rc4'

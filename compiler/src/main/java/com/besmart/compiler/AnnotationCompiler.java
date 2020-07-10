@@ -1,5 +1,6 @@
 package com.besmart.compiler;
 
+import com.besmart.annotation.BindPath;
 import com.google.auto.service.AutoService;
 import com.squareup.javapoet.ClassName;
 import com.squareup.javapoet.JavaFile;
